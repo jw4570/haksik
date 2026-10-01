@@ -1,0 +1,6 @@
+{
+  "name": "학식 운영·수요 관리 대시보드",
+  "description": "대학 학식 수요 예측, 사전 예약·관심 인원 관리, 혼잡도 분석 및 엑셀(XLSX/CSV) 연계 운영 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
